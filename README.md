@@ -2,4 +2,4 @@
 Hello World With Python
 # to do
 
-- [ ] donate me
+- [ ] donate me now
